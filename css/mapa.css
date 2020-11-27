@@ -1,0 +1,24 @@
+html {
+	background-color:#6d9f71 ;
+}
+h1 {
+	color: #000;
+}
+.padre {
+  background-color: #253c78;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #6d9f71;
+  text-align: center;
+}
+
+.header{
+	background-color: #2b59c3;
+	margin: 20px;
+	text-align: center;
+	border: 2px solid #000000;
+	/* height: 50px; */
+	padding: 30px;
+}
+
+

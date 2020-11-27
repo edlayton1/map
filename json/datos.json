@@ -1,0 +1,85 @@
+[
+    {
+        "coord_x1":"0",
+        "coord_x2":"325",
+        "coord_x3":"0",
+        "coord_x4":"149",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 1"
+    },
+    {
+        "coord_x1":"325",
+        "coord_x2":"646",
+        "coord_x3":"0",
+        "coord_x4":"150",
+        "url":"Capitulo.pdf",
+        "tittle":"Panel numero 2"
+    },
+    {
+        "coord_x1":"2",
+        "coord_x2":"324",
+        "coord_x3":"151",
+        "coord_x4":"297",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 3"
+    },
+    {
+        "coord_x1":"323",
+        "coord_x2":"649",
+        "coord_x3":"148",
+        "coord_x4":"297",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 4"
+    },
+    {
+        "coord_x1":"0",
+        "coord_x2":"294",
+        "coord_x3":"0",
+        "coord_x4":"446",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 5"
+    },
+    {
+        "coord_x1":"326",
+        "coord_x2":"646",
+        "coord_x3":"297",
+        "coord_x4":"448",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 6"
+    },
+    {
+        "coord_x1":"3",
+        "coord_x2":"324",
+        "coord_x3":"445",
+        "coord_x4":"597",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 7"
+    },
+    {
+        "coord_x1":"324",
+        "coord_x2":"649",
+        "coord_x3":"446",
+        "coord_x4":"593",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 8"
+    },
+    {
+        "coord_x1":"0",
+        "coord_x2":"321",
+        "coord_x3":"594",
+        "coord_x4":"743",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 9"
+    },
+    {
+        "coord_x1":"323",
+        "coord_x2":"650",
+        "coord_x3":"595",
+        "coord_x4":"744",
+        "url":"Diodo.pdf",
+        "tittle":"Panel numero 10"
+    }
+
+
+
+]
